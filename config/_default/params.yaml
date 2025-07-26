@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'West African Coast Flooding Early Warning System (WACFEWS)'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'egeodegeod@gmail.com'
     baidu: ''
 
 # Site header
@@ -34,13 +34,13 @@ header:
     align: "center"
     fixed_to_top: true
     logo:
-      text: ""
+      text: "EGEOD"
       # Logo filename in `assets/media/` folder 
       filename: "logo.png"
     button:
       enable: true
       text: "Learn More"
-      url: #"https://hugoblox.com/templates/"
+      url: ""
     show_search: true
     show_theme_chooser: true
 
