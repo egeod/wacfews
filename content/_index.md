@@ -80,7 +80,7 @@ sections:
             - Environmental agencies
             - NGOs and development groups
             - Schools and educational institutions
-            <p style="text-align:justify;"><b>Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.</b></p>
+              <p style="text-align:justify;"><b> Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.</b></p>
           image: build-website.png
           button:
             text: "Get Started"
@@ -92,7 +92,7 @@ sections:
             - Local outreach campaigns
             - On-site workshops and training
             - Educational materials for coastal schools and organizations
-             <p style="text-align:justify;"><b>The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.</b></p>
+              <p style="text-align:justify;"><b>The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.</b></p>
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
