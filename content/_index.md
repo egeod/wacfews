@@ -1,10 +1,9 @@
 ---
 title: ""
-date: 2023-10-24
+date: 2025-07-26
 type: landing
 
 design:
-  # Default section spacing
   spacing: "2rem"
 
 sections:
@@ -82,8 +81,8 @@ sections:
               **Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.**
           image: audience.svg
           button:
-            text: #Get Started
-            url: #https://hugoblox.com/templates/
+            text: "Get Started"
+            url: ""
         - title: Promoting Coastal Resilience
           text: In addition to modelling and data collection, the project encompasses a range of engagement and knowledge-sharing activities, including
           feature_icon: bolt
@@ -95,8 +94,8 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: trainings.svg
           button:
-            text: #Join Discord
-            url: #https://discord.gg/z8wNYzb
+            text: ""
+            url: ""
     design:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-card
@@ -104,8 +103,8 @@ sections:
       title: The project is overseen by an independent environmental researcher. The objective of the initiative is twofold firstly, to raise awareness of coastal flooding, and secondly, to promote environmental resilience.
       text: Drawing on expertise in geospatial data, ocean modelling, and data science, the project combines open-access tools such as Copernicus Marine Services,Google Earth Engine, and Sentinel imagery to support equitable access to coastal risk information.
       button:
-        text: #Get Started
-        url: #https://hugoblox.com/templates/
+        text: "Learn More"
+        url: ""
     design:
       card:
         css_class: "bg-primary-700"
