@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: sky
 
 # SEO
 marketing:
@@ -35,19 +35,19 @@ header:
     fixed_to_top: true
     logo:
       text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      # Logo filename in `assets/media/` folder 
+      filename: "logo.png"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Learn More"
+      url: #"https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} EGEOD'
 
 # Localization
 locale:
