@@ -9,12 +9,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Coastal Flood Awareness for West Africa
-      text: Developing a science-based early warning system to forecast extreme coastal events and support disaster risk monitoring in the Gulf of Guinea
+      title: West African Coastal Flooding Early warning System
+      text: Developing a science-based platform to forecast extreme coastal events and support disaster risk monitoring in the Gulf of Guinea
       primary_action:
         text: "Learn More"
-        url: ""
+        url: "#about"
         icon: rocket-launch
+        is_scrolly: true
       announcement:
         text: Building an Coastal Flooding Early Warning System for the Gulf of Guinea
         link:
