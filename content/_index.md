@@ -19,7 +19,7 @@ sections:
       announcement:
         text: Building an Coastal Flooding Early Warning System for the Gulf of Guinea
         link:
-          text: "Read More"
+          text: ""
           url: "/blog/"
     design:
       spacing:
@@ -84,7 +84,7 @@ sections:
               <p style="text-align:justify;"><b> Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.</b></p>
           image: build-website.png
           button:
-            text: "Get Started"
+            text: ""
             url: ""
         - title: Promoting Coastal Resilience
           text: In addition to modelling and data collection, the project encompasses a range of engagement and knowledge-sharing activities, including
