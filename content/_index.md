@@ -38,10 +38,10 @@ sections:
       title: About the Project
       subtitle: About the West African Coast Flooding Early Warning System
       text: |-
-        <p style="text-align:justify;">The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.</p>
+        <p style="text-align:justify;">The <b>West African Coast Inundation Early Warning System</b>is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.</p>
         <p style="text-align:justify;">Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.</p>
         <p style="text-align:justify;">From statistical modelling of historical events to real-time analysis of tides, wave action and sea level anomalies, this project aims to offer actionable insights to manage and prevent the impact of coastal flooding in the context of climate change.</p>
-        <p style="text-align:justify;">Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at [reach out](egeodegeod@gmail.com)</p>
+        <p style="text-align:justify;">Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at <a href="egeodegeod@gmail.com">egeodegeod@gmail.com</a></p>
     
     design:
       columns: '1'
@@ -80,7 +80,7 @@ sections:
             - Environmental agencies
             - NGOs and development groups
             - Schools and educational institutions
-              **Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.**
+            <p style="text-align:justify;"><b>Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.</b></p>
           image: build-website.png
           button:
             text: "Get Started"
@@ -92,7 +92,7 @@ sections:
             - Local outreach campaigns
             - On-site workshops and training
             - Educational materials for coastal schools and organizations
-             **The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.**
+             <p style="text-align:justify;"><b>The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.</b></p>
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
