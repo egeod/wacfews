@@ -56,13 +56,13 @@ sections:
           icon: chart-bar
           description: We employ statistical methods to analyse historical sea conditions, thereby identifying risk thresholds for flooding events.
         - name: Integrated Ocean Modelling
-          icon: waves
+          icon: water
           description: Our approach involves the integration of data from Copernicus Marine Services, encompassing wave information and sea level anomaly data, in conjunction with the FES Tide Model to derive comprehensive estimates of total water levels.
         - name: Python & R-Based Models
-          icon: code
+          icon: code-bracket-square
           description: Our forecasting systems are developed using Python and R, ensuring both flexibility and scientific reproducibility.
         - name: Regional Forecasting
-          icon: map
+          icon: map-pin
           description: Pilot studies are conducted on Ghana, Benin, Togo, Ivory Coast, Nigeria and Cameroon, with the objective of offering region-specific insights.
 
   - block: cta-image-paragraph
@@ -79,7 +79,7 @@ sections:
             - NGOs and development groups
             - Schools and educational institutions
               **Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.**
-          image: audience.svg
+          image: build-website.png
           button:
             text: "Get Started"
             url: ""
@@ -92,7 +92,7 @@ sections:
             - Educational materials for coastal schools and organizations
              **The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.**
           # Upload image to `assets/media/` and reference the filename here
-          image: trainings.svg
+          image: coffee.jpg
           button:
             text: ""
             url: ""
