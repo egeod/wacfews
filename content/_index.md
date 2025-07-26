@@ -38,13 +38,11 @@ sections:
       title: About the Project
       subtitle: About the West African Coast Flooding Early Warning System
       text: |-
-        The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.
+        <p style="text-align:justify;">The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.</p>
+        <p style="text-align:justify;">Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.</p>
+        <p style="text-align:justify;">From statistical modelling of historical events to real-time analysis of tides, wave action and sea level anomalies, this project aims to offer actionable insights to manage and prevent the impact of coastal flooding in the context of climate change.</p>
+        <p style="text-align:justify;">Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at [reach out](egeodegeod@gmail.com)</p>
     
-        Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.
-    
-        From statistical modelling of historical events to real-time analysis of tides, wave action and sea level anomalies, this project aims to offer actionable insights to manage and prevent the impact of coastal flooding in the context of climate change.
-    
-        Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at [reach out](egeodegeod@gmail.com)
     design:
       columns: '1'
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -83,7 +81,7 @@ sections:
             - NGOs and development groups
             - Schools and educational institutions
               **Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.**
-          image: audience.svg
+          image: build-website.png
           button:
             text: "Get Started"
             url: ""
@@ -96,7 +94,7 @@ sections:
             - Educational materials for coastal schools and organizations
              **The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.**
           # Upload image to `assets/media/` and reference the filename here
-          image: trainings.svg
+          image: coffee.jpg
           button:
             text: ""
             url: ""
@@ -104,7 +102,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
   - block: cta-card
     content:
-      title: The project is overseen by an independent environmental researcher. The objective of the initiative is twofold firstly, to raise awareness of coastal flooding, and secondly, to promote environmental resilience.
+      title: The objective of the initiative is twofold firstly, to raise awareness of coastal flooding, and secondly, to promote environmental resilience.
       text: Drawing on expertise in geospatial data, ocean modelling, and data science, the project combines open-access tools such as Copernicus Marine Services,Google Earth Engine, and Sentinel imagery to support equitable access to coastal risk information.
       button:
         text: "Learn More"
