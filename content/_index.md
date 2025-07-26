@@ -13,19 +13,18 @@ sections:
       title: Coastal Flood Awareness for West Africa
       text: Developing a science-based early warning system to forecast extreme coastal events and support disaster risk monitoring in the Gulf of Guinea
       primary_action:
-        text: Learn More
-        url: #https://hugoblox.com/templates/
+        text: "Learn More"
+        url: ""
         icon: rocket-launch
       announcement:
         text: Building an Coastal Flooding Early Warning System for the Gulf of Guinea
         link:
-          text: #"Read more"
-          url: #"/blog/"
+          text: "Read More"
+          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
         color: "navy"
@@ -33,12 +32,11 @@ sections:
           # Add your image background to `assets/media/`. bg-triangles.svg
           filename: tidal_ocean.jpg
           filters:
-          filters:
             brightness: 0.5
   - block: markdown
     content:
-      title: 'About the Project'
-      subtitle: 'About the West African Coast Flooding Early Warning System'
+      title: About the Project
+      subtitle: About the West African Coast Flooding Early Warning System
       text: |-
         The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.
         Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.
