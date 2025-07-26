@@ -10,20 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Coastal Flood Awareness for West Africa
+      text: Developing a science-based early warning system to forecast extreme coastal events and support disaster risk monitoring in the Gulf of Guinea
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Learn More
+        url: #https://hugoblox.com/templates/
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: Building an Coastal Flooding Early Warning System for the Gulf of Guinea
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: #"Read more"
+          url: #"/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -33,110 +30,86 @@ sections:
       background:
         color: "navy"
         image:
-          # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          # Add your image background to `assets/media/`. bg-triangles.svg
+          filename: tidal_ocean.jpg
+          filters:
           filters:
             brightness: 0.5
-  - block: stats
+  - block: markdown
     content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+      title: 'About the Project'
+      subtitle: 'About the West African Coast Flooding Early Warning System'
+      text: |-
+        The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.
+        Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.
+        From statistical modelling of historical events to real-time analysis of tides, wave action and sea level anomalies, this project aims to offer actionable insights to manage and prevent the impact of coastal flooding in the context of climate change.
+        Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at [reach out](egeodegeod@gmail.com)
     design:
-      # Section background color (CSS class)
+      columns: '1'
       css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: How It works
+      text: 
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+        - name: Data Driven threshold Analysis
+          icon: chart-bar
+          description: We employ statistical methods to analyse historical sea conditions, thereby identifying risk thresholds for flooding events.
+        - name: Integrated Ocean Modelling
+          icon: waves
+          description: Our approach involves the integration of data from Copernicus Marine Services, encompassing wave information and sea level anomaly data, in conjunction with the FES Tide Model to derive comprehensive estimates of total water levels.
+        - name: Python & R-Based Models
+          icon: code
+          description: Our forecasting systems are developed using Python and R, ensuring both flexibility and scientific reproducibility.
+        - name: Regional Forecasting
+          icon: map
+          description: Pilot studies are conducted on Ghana, Benin, Togo, Ivory Coast, Nigeria and Cameroon, with the objective of offering region-specific insights.
+
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
-          text: As easy as 1, 2, 3!
+        - title: Who It's For
+          text: This system is being constructed to serve 
           feature_icon: check
           features:
-            - "Future-proof - edit your content in text files"
-            - "Website is generated by a single app, Hugo"
-            - "No JavaScript knowledge required"
-          # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+            - Coastal communities
+            - Local and regional governments
+            - Environmental agencies
+            - NGOs and development groups
+            - Schools and educational institutions
+              **Our objective is to minimise vulnerabilities throughout society by making information regarding data and risk more accessible to a wider range of individuals.**
+          image: audience.svg
           button:
-            text: Get Started
-            url: https://hugoblox.com/templates/
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+            text: #Get Started
+            url: #https://hugoblox.com/templates/
+        - title: Promoting Coastal Resilience
+          text: In addition to modelling and data collection, the project encompasses a range of engagement and knowledge-sharing activities, including
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - Local outreach campaigns
+            - On-site workshops and training
+            - Educational materials for coastal schools and organizations
+             **The objective of these programmes is to enhance preparedness and raise awareness of coastal hazards among affected communities.**
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
+          image: trainings.svg
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: #Join Discord
+            url: #https://discord.gg/z8wNYzb
     design:
-      # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: The project is overseen by an independent environmental researcher. The objective of the initiative is twofold firstly, to raise awareness of coastal flooding, and secondly, to promote environmental resilience.
+      text: Drawing on expertise in geospatial data, ocean modelling, and data science, the project combines open-access tools such as Copernicus Marine Services,Google Earth Engine, and Sentinel imagery to support equitable access to coastal risk information.
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: #Get Started
+        url: #https://hugoblox.com/templates/
     design:
       card:
-        # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
 ---
