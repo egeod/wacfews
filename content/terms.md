@@ -43,4 +43,4 @@ We reserve the right to update or modify these Terms at any time without prior n
 
 For any questions about these Terms, please contact us at:
 
-📧 [your@email.com]
+📧 [egeodegeod@gmail.com](egeodegeod@gmail.com)
