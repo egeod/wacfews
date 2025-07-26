@@ -56,10 +56,10 @@ sections:
           icon: chart-bar
           description: We employ statistical methods to analyse historical sea conditions, thereby identifying risk thresholds for flooding events.
         - name: Integrated Ocean Modelling
-          icon: water
+          icon: code-bracket-square
           description: Our approach involves the integration of data from Copernicus Marine Services, encompassing wave information and sea level anomaly data, in conjunction with the FES Tide Model to derive comprehensive estimates of total water levels.
         - name: Python & R-Based Models
-          icon: code-bracket-square
+          icon: python
           description: Our forecasting systems are developed using Python and R, ensuring both flexibility and scientific reproducibility.
         - name: Regional Forecasting
           icon: map-pin
