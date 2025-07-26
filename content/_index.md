@@ -39,8 +39,11 @@ sections:
       subtitle: About the West African Coast Flooding Early Warning System
       text: |-
         The *West African Coast Inundation Early Warning System* is an independent research initiative that was launched in early 2025 with a view to developing long-term forecasting tools for extreme coastal events in the Gulf of Guinea.
+    
         Our objective is to establish a long-term, data-driven flood forecasting and alerting system for stakeholders in the Gulf of Guinea. We provide actionable information for disaster risk management across coastal West Africa by using satellite data, ocean modelling and statistical thresholds.
+    
         From statistical modelling of historical events to real-time analysis of tides, wave action and sea level anomalies, this project aims to offer actionable insights to manage and prevent the impact of coastal flooding in the context of climate change.
+    
         Should you wish to discuss potential collaborative opportunities, please do not hesitate to contact us at [reach out](egeodegeod@gmail.com)
     design:
       columns: '1'
