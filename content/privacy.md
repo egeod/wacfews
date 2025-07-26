@@ -50,4 +50,4 @@ If you contact us and want your personal data removed, please email us and we wi
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 [egeodegeod@gmail.com](egeodegeod@gmail.com)
+📧 [egeodegeod@gmail](egeodegeod@gmail.com)
